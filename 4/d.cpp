@@ -5,7 +5,7 @@ int** createTable(int w, int h) {
 	return array;
 }
 void main() {
-	int w = 10, h = 10;
+	const int w = 10, h = 10;
 	int** array = createTable(w, h);
 	for(int x=0;x<w;x++) {
 		for (int y = 10; y < h; y++)
