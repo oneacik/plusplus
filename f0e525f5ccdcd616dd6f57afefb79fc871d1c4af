@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "be4edee4_6bbc4eee",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1011732
+      },
+      "writtenOn": "2017-07-24T19:09:19Z",
+      "side": 1,
+      "message": "be more verbose",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 4
+      },
+      "revId": "f0e525f5ccdcd616dd6f57afefb79fc871d1c4af",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dbd44a21_031ee9eb",
+        "filename": "07/Samuraj",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011732
+      },
+      "writtenOn": "2017-07-24T19:09:19Z",
+      "side": 1,
+      "message": "I think that there should be dot on the end.",
+      "revId": "f0e525f5ccdcd616dd6f57afefb79fc871d1c4af",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
